@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python telegram_admin_bot_v3.py"
